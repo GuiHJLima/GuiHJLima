@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/GuiLimaSeila">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiLimaSeila&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiLimaSeila&layout=compact&langs_count=7&theme=dark"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiLimaSeila&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiHJLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiHJLima&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiHJLima&theme=dark"/>
 </div>
 
 </br>
