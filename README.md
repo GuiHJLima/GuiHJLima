@@ -62,3 +62,9 @@
 <div align="center">
 <img lign="center" alt="Luffy"  src="https://i.pinimg.com/originals/dd/70/16/dd701604d237a4d74492795cdb185ac9.gif">
 </div>
+
+</br>
+
+<img src="https://raw.githubusercontent.com/GuiHJLima/GuiHJLima/output/snake.svg" alt="Snake animation" />
+
+###
